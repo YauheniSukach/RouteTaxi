@@ -1,0 +1,33 @@
+c:\users\qwerty twerty\documents\visual studio 2017\Projects\RouteTaxi\RouteTaxi\bin\Debug\RouteTaxi.exe.config
+c:\users\qwerty twerty\documents\visual studio 2017\Projects\RouteTaxi\RouteTaxi\bin\Debug\RouteTaxi.exe
+c:\users\qwerty twerty\documents\visual studio 2017\Projects\RouteTaxi\RouteTaxi\bin\Debug\RouteTaxi.pdb
+c:\users\qwerty twerty\documents\visual studio 2017\Projects\RouteTaxi\RouteTaxi\obj\Debug\RouteTaxi.Properties.Resources.resources
+c:\users\qwerty twerty\documents\visual studio 2017\Projects\RouteTaxi\RouteTaxi\obj\Debug\RouteTaxi.csproj.GenerateResource.Cache
+c:\users\qwerty twerty\documents\visual studio 2017\Projects\RouteTaxi\RouteTaxi\obj\Debug\RouteTaxi.exe
+c:\users\qwerty twerty\documents\visual studio 2017\Projects\RouteTaxi\RouteTaxi\obj\Debug\RouteTaxi.pdb
+c:\users\qwerty twerty\documents\visual studio 2017\Projects\RouteTaxi\RouteTaxi\bin\Debug\Domain.dll
+c:\users\qwerty twerty\documents\visual studio 2017\Projects\RouteTaxi\RouteTaxi\bin\Debug\Session.dll
+c:\users\qwerty twerty\documents\visual studio 2017\Projects\RouteTaxi\RouteTaxi\bin\Debug\Domain.pdb
+c:\users\qwerty twerty\documents\visual studio 2017\Projects\RouteTaxi\RouteTaxi\bin\Debug\Session.pdb
+c:\users\qwerty twerty\documents\visual studio 2017\Projects\RouteTaxi\RouteTaxi\obj\Debug\RouteTaxi.csprojResolveAssemblyReference.cache
+c:\users\qwerty twerty\documents\visual studio 2017\Projects\RouteTaxi\RouteTaxi\obj\Debug\RouteTaxi.Registration.resources
+C:\Users\Qwerty Twerty\Documents\Visual Studio 2017\Projects\RouteTaxi\RouteTaxi\obj\Debug\RouteTaxi.Menu.resources
+C:\Users\Qwerty Twerty\Documents\Visual Studio 2017\Projects\RouteTaxi\RouteTaxi\obj\Debug\RouteTaxi.Schedule.resources
+C:\Users\Qwerty Twerty\Documents\Visual Studio 2017\Projects\RouteTaxi\RouteTaxi\bin\Debug\Database.accdb
+D:\RouteTaxi\RouteTaxi\bin\Debug\Database.accdb
+D:\RouteTaxi\RouteTaxi\bin\Debug\RouteTaxi.exe.config
+D:\RouteTaxi\RouteTaxi\bin\Debug\RouteTaxi.exe
+D:\RouteTaxi\RouteTaxi\bin\Debug\RouteTaxi.pdb
+D:\RouteTaxi\RouteTaxi\bin\Debug\Domain.dll
+D:\RouteTaxi\RouteTaxi\bin\Debug\Session.dll
+D:\RouteTaxi\RouteTaxi\bin\Debug\Domain.pdb
+D:\RouteTaxi\RouteTaxi\bin\Debug\Session.pdb
+D:\RouteTaxi\RouteTaxi\obj\Debug\RouteTaxi.csprojResolveAssemblyReference.cache
+D:\RouteTaxi\RouteTaxi\obj\Debug\RouteTaxi.Menu.resources
+D:\RouteTaxi\RouteTaxi\obj\Debug\RouteTaxi.Properties.Resources.resources
+D:\RouteTaxi\RouteTaxi\obj\Debug\RouteTaxi.Registration.resources
+D:\RouteTaxi\RouteTaxi\obj\Debug\RouteTaxi.Schedule.resources
+D:\RouteTaxi\RouteTaxi\obj\Debug\RouteTaxi.csproj.GenerateResource.Cache
+D:\RouteTaxi\RouteTaxi\obj\Debug\RouteTaxi.csproj.CoreCompileInputs.cache
+D:\RouteTaxi\RouteTaxi\obj\Debug\RouteTaxi.exe
+D:\RouteTaxi\RouteTaxi\obj\Debug\RouteTaxi.pdb

@@ -1,0 +1,15 @@
+c:\users\qwerty twerty\documents\visual studio 2017\Projects\RouteTaxi\Session\bin\Debug\Session.dll
+c:\users\qwerty twerty\documents\visual studio 2017\Projects\RouteTaxi\Session\bin\Debug\Session.pdb
+c:\users\qwerty twerty\documents\visual studio 2017\Projects\RouteTaxi\Session\bin\Debug\Domain.dll
+c:\users\qwerty twerty\documents\visual studio 2017\Projects\RouteTaxi\Session\bin\Debug\Domain.pdb
+c:\users\qwerty twerty\documents\visual studio 2017\Projects\RouteTaxi\Session\obj\Debug\Session.csprojResolveAssemblyReference.cache
+c:\users\qwerty twerty\documents\visual studio 2017\Projects\RouteTaxi\Session\obj\Debug\Session.dll
+c:\users\qwerty twerty\documents\visual studio 2017\Projects\RouteTaxi\Session\obj\Debug\Session.pdb
+D:\RouteTaxi\Session\bin\Debug\Session.dll
+D:\RouteTaxi\Session\bin\Debug\Session.pdb
+D:\RouteTaxi\Session\bin\Debug\Domain.dll
+D:\RouteTaxi\Session\bin\Debug\Domain.pdb
+D:\RouteTaxi\Session\obj\Debug\Session.csprojResolveAssemblyReference.cache
+D:\RouteTaxi\Session\obj\Debug\Session.csproj.CoreCompileInputs.cache
+D:\RouteTaxi\Session\obj\Debug\Session.dll
+D:\RouteTaxi\Session\obj\Debug\Session.pdb
